@@ -65,4 +65,4 @@ Pressione ENTER para continuar
 - Arthur Borges -> aab4@cesar.school
 - Kauan Novello -> kvns@cesar.school
 - Tiago Cavalcanti -> tpbc@cesar.school
-- Luís Augusto -> 
+- Luís Augusto -> lavc@cesar.school
