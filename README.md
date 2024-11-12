@@ -26,7 +26,7 @@ gcc main.c -o jogo -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 ```
 # 🎮 Como Jogar
 
-##  🏠 Menu Principal:
+##  🏠 Menu Principal
 
 Aperte 1 para Iniciar Jogo
 
@@ -52,7 +52,12 @@ ENTER: Confirma ações ou avança nos menus
 
 1. 💯 Capture os objetos que caem para ganhar pontos
 2. ❤️ Evite deixar os objetos caírem no chão, ou você perderá vidas (o jogador possui 3 vidas)
-3. ⚡ Capture objetos especiais para ganhar power-ups.
+3. ⚡ Capture objetos especiais para ganhar power-ups
+
+ ## Game Over
+
+Se você tiver uma pontuação alta, poderá inserir seu nome para salvar no ranking
+Pressione ENTER para continuar
 
 ## 👤 Membros do grupo
 
